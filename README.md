@@ -9,6 +9,8 @@ A full-stack tool for translating manga into English. Upload a page or a whole c
 
 Every step can be reviewed and corrected in a browser editor before export.
 
+**Results:** 93% text-extraction accuracy across 1,000+ pages, tested with 2 translation teams.
+
 **The source is private for now.** This page covers how it works and the problems that shaped it.
 
 `Python` `FastAPI` `OpenCV` `EasyOCR` `manga-ocr` `Claude` `React` `Docker` `Fly.io`
